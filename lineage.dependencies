@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "android_device_google_crosshatch",
+    "target_path": "device/google/crosshatch"
+  },
+  {
+    "repository": "android_kernel_google_crosshatch",
+    "target_path": "kernel/google/crosshatch"
+  }
+]
+
